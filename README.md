@@ -22,7 +22,5 @@ FoodVilla is an online food ordering app, which integrates with Swiggy APIs to f
 ![FoodVilla-Cart](./FoodVilla-Cart.png)
 
 
-![FoodVilla-Contact-Us](./FoodVilla-Contact-Us.png)
-
 
 ![FoodVilla-About-Us](./FoodVilla-About-Us.png)
