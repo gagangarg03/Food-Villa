@@ -22,11 +22,11 @@ class About extends React.Component {
           )}
         </UserContext.Consumer>
         <p className="about-text">
-          This is Food Villa, a food ordering platform designed by Khushi Arora
+          This is Food Villa, a food ordering platform designed by Gagan Garg
         </p>
         <p className="about-linkedin">
           Feel free to connect with me on{" "}
-          <a href="https://www.linkedin.com/in/Gagan Garg-a31b32244/" target="_blank">
+          <a href="https://www.linkedin.com/in/gagan-garg-7b335223b/" target="_blank">
             <FontAwesomeIcon
               icon={faLinkedin}
               data-testid="linkedin-icon"
