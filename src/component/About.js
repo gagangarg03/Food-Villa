@@ -26,7 +26,7 @@ class About extends React.Component {
         </p>
         <p className="about-linkedin">
           Feel free to connect with me on{" "}
-          <a href="https://www.linkedin.com/in/khushi-arora-a31b32244/" target="_blank">
+          <a href="https://www.linkedin.com/in/Gagan Garg-a31b32244/" target="_blank">
             <FontAwesomeIcon
               icon={faLinkedin}
               data-testid="linkedin-icon"
