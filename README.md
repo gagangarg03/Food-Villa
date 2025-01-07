@@ -7,4 +7,4 @@ FoodVilla is an online food ordering app, which integrates with Swiggy APIs to f
 - React
 - Redux Toolkit
 - Tailwind CSS
-- Jest
+
