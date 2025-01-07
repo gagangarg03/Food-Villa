@@ -13,24 +13,18 @@ const Contact = () => {
       <ul>
         <li>
           Shoot me an email &nbsp;&nbsp;
-          <a href="mailto:khushiarora1793@gmail.com">
+          <a href="mailto:gagangarg489@gmail.com">
             <FontAwesomeIcon icon={faEnvelope} data-testid="email-icon" />
           </a>
         </li>
         <li>
           Connect on LinkedIn &nbsp;&nbsp;
-          <a href="https://www.linkedin.com/in/khushi-arora-a31b32244/" target="_blank">
+          <a href="https://www.linkedin.com/in/gagan-garg-7b335223b/" target="_blank">
             <FontAwesomeIcon
               icon={faLinkedin}
               data-testid="linkedin-icon"
               className="about-linkedin-icon"
             />
-          </a>
-        </li>
-        <li>
-          Follow my Twitter journey &nbsp;&nbsp;
-          <a href="https://x.com/khushi_arora17" target="_blank">
-            <FontAwesomeIcon icon={faTwitter} data-testid="twitter-icon" />
           </a>
         </li>
       </ul>
